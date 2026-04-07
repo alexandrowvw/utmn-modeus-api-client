@@ -178,7 +178,7 @@ async with ModeusClient() as client:
 ## Требования
 
 - Python 3.8+
-- aiohttp
+- httpx
 - beautifulsoup4
 
 ## Лицензия
